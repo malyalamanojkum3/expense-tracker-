@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Cash",
+      "amount": 500
+    },
+    {
+      "id": 1,
+      "text": "Bank",
+      "amount": -40
+    },
+    {
+      "id": 1,
+      "text": "cash",
+      "amount": -200
+    },
+    {
+      "text": "mpocket",
+      "amount": 527,
+      "id": 3
+    },
+    {
+      "text": "russian",
+      "amount": 5000,
+      "id": 4
+    },
+    {
+      "text": "vnvn",
+      "amount": -600,
+      "id": 5
+    },
+    {
+      "text": "ghgh",
+      "amount": -100,
+      "id": 6
+    }
+  ]
+}
